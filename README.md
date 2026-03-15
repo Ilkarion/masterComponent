@@ -1,22 +1,12 @@
 # 🧩 Master Component
-**Reusable React components collection for faster prototyping**
+Этот Landing Page создавался командой, которые учились взаимодействовать с другими специальностями.
+В этом проекти участвовали QA, UX/UIDesigner, Frontend Developers and PM.
+Главной целью проекта было научится понимать как работать в команде, и правильно организовывать свою работу.
+Во время проэкта были организовано много онлайн встреч для обсуждения проекта и его развитие, осваивание вспомогательных менеджмент прилложений(Jira),
+Решать разные баги выявленые QA,
+Советоватся с UX Designers что бы было найдено решения для удовлетворения разработчиков и воображаемого "клиента".
 
-🔹 **Goal**  
-Build a personal UI library of components to speed up development in React/Next.js projects.  
+Были спользованы такие инструменты: React.js, Redux, Mui Material, и длругие маленькие вспомогательные библиотеки(formik, slick, slider etc...)
 
-🔹 **Stack**  
-- React (Hooks + Context)  
-- TypeScript  
-- TailwindCSS  
-
-🔹 **Features**  
-- 📦 Reusable, clean UI components  
-- 🎛️ Configurable props for flexibility  
-- 🎨 Consistent design system  
-
-🔹 **What I learned**  
-- Component-driven development  
-- Using TypeScript to ensure component safety  
-- Structuring a UI library for scalability  
-
+BackEnd для этого проекта не было задумано. главная цель была научится работать в команде и понять процесс разработки.
 🔗 [Portfolio page](https://portfolio-one-gilt-66.vercel.app/#projects)
