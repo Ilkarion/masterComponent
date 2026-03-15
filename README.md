@@ -1,12 +1,36 @@
-# 🧩 Master Component
-Этот Landing Page создавался командой, которые учились взаимодействовать с другими специальностями.
-В этом проекти участвовали QA, UX/UIDesigner, Frontend Developers and PM.
-Главной целью проекта было научится понимать как работать в команде, и правильно организовывать свою работу.
-Во время проэкта были организовано много онлайн встреч для обсуждения проекта и его развитие, осваивание вспомогательных менеджмент прилложений(Jira),
-Решать разные баги выявленые QA,
-Советоватся с UX Designers что бы было найдено решения для удовлетворения разработчиков и воображаемого "клиента".
+# Master Component
 
-Были спользованы такие инструменты: React.js, Redux, Mui Material, и длругие маленькие вспомогательные библиотеки(formik, slick, slider etc...)
+## 🧩 Overview
+**Master Component** is a Computer store and landing page project created to demonstrate frontend development skills and teamwork in a simulated project environment.  
+The project focuses on teamwork, modular architecture, and responsive layouts.
 
-BackEnd для этого проекта не было задумано. главная цель была научится работать в команде и понять процесс разработки.
-🔗 [Portfolio page](https://portfolio-one-gilt-66.vercel.app/#projects)
+---
+
+## 🔧 Technologies
+- **Frontend:** React.js, TypeScript  
+- **State Management:** Redux  
+- **UI Library:** Material UI  
+- **Styling:** CSS / SCSS  
+- **Tools:** Git, Vercel deployment  
+
+---
+
+## 🎯 Features
+- Modular and reusable UI components for faster development  
+- Responsive design for multiple devices  
+- Collaborative workflow simulation with roles like UX/UI designer, QA, PM, and developers  
+
+---
+
+## 🌐 Live Demo
+[https://master-component.vercel.app/](https://master-component.vercel.app/)
+
+
+---
+
+## ✨ Why It Matters
+This project highlights:  
+- Teamwork and collaboration skills  
+- Ability to structure components for scalable projects  
+- Practical experience with modern frontend tools and state management  
+- Readiness for real-world frontend development environments  
