@@ -6,6 +6,11 @@ The project focuses on teamwork, modular architecture, and responsive layouts.
 
 ---
 
+## 🌐 Live Demo
+[https://master-component.vercel.app/](https://master-component.vercel.app/)
+ 
+---
+
 ## 🔧 Technologies
 - **Frontend:** React.js, TypeScript  
 - **State Management:** Redux  
@@ -19,11 +24,6 @@ The project focuses on teamwork, modular architecture, and responsive layouts.
 - Modular and reusable UI components for faster development  
 - Responsive design for multiple devices  
 - Collaborative workflow simulation with roles like UX/UI designer, QA, PM, and developers  
-
----
-
-## 🌐 Live Demo
-[https://master-component.vercel.app/](https://master-component.vercel.app/)
 
 
 ---
